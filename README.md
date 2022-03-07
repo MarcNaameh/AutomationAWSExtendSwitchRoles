@@ -14,9 +14,12 @@ PLEASE FOLLOW THE STEPS BELOW:
 
 2- Open up your SSO and log in to your organization.
 
-3- make sure to extend all the available account so you can see which role is assigned to you.
+3- Make sure to extend all the available account so you can see which role is assigned to you.
 
 4- Copy everything from the first account to the last one. (Please do not use Ctrl + A as we do not need everything from the page)
+
+![image](https://user-images.githubusercontent.com/100154911/157032856-14f285d9-0e22-4adb-99c2-5d89012e6991.png)
+
 
 5- Paste in the input file (make sure you delete any previous data written into it) and launch the python code.
 
