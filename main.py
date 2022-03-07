@@ -19,7 +19,7 @@ def main(inputfile,outputfile):
             elif line[0] == "#":
                 AccNum = line[1:13]
 
-            elif ((linenumber -3) % 4) == 0: # line[:13] == "ReadOnlyAdmin" or line[:14] == "ViewOnlyAccess":
+            elif ((linenumber -3) % 4) == 0:
                 print(line)
                 listline = line.split(" ")
                 Role = listline[0]
